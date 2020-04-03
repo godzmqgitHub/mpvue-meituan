@@ -37,7 +37,7 @@ export default {
     window: {
       backgroundTextStyle: 'light',
       navigationBarBackgroundColor: '#fff',
-      navigationBarTitleText: '高仿美团',
+      navigationBarTitleText: '小帮派',
       navigationBarTextStyle: 'black',
       // enablePullDownRefresh: true
     },

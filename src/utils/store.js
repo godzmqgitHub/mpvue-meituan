@@ -3,7 +3,7 @@ import Vuex from 'vuex'
 Vue.use(Vuex)
 const store = new Vuex.Store({
   state: {
-    curCity: '昆明',
+    curCity: '运城',
     isLogin: false,
     userInfo: {
     	avatarUrl: '',

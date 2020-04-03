@@ -7,10 +7,12 @@
 		"minified": true,
 		"newFeature": true
 	},
-	"miniprogramRoot": "./dist/",
+	"miniprogramRoot": "dist/",
 	"compileType": "miniprogram",
-	"appid": "wx6ed3fefcf0e0b994",
+	"appid": "wxc87c125764be9391",
 	"projectname": "wxapp",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,

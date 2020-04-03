@@ -9,7 +9,7 @@
           </div>
         </dd>
         <dd class="z-width-100-percent z-bg-color-fff ub-box z-border-bottom-1-eee">
-          <span id="cc" class="z-font-size-14 z-font-weight-bold z-color-333 z-padding-all-8-px">当前：昆明</span>
+          <span id="cc" class="z-font-size-14 z-font-weight-bold z-color-333 z-padding-all-8-px">当前：运城</span>
         </dd>
         <dd class="z-width-100-percent z-bg-color-fff ub-box">
           <span class="z-font-size-14 z-color-333 z-font-weight-bold z-padding-all-8-px">定位/最近访问</span>
